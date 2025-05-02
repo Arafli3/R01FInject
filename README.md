@@ -8,6 +8,10 @@
 - [ ] 6. Simpan Data Tersebut Yang di kirim oleh bot
 
 2. Jalankan Cmd ini di Terminal Linux kalian
+
+3. ```
+   apt install curl jq wget screen build-essential -y
+   ```
 - [ ] 1.
 ``` 
 curl -o start.sh -sSL https://raw.githubusercontent.com/Arafli3/R01FInject/main/start.sh && chmod +x start.sh && ./start.sh
